@@ -1,0 +1,15 @@
+{
+    "title": "test",
+    "baseURL": "https:\/\/damian.custom.wd",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "custom.wd"
+    }
+}
